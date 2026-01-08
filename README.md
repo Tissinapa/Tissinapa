@@ -35,16 +35,17 @@ Here are some of my favorite projects — feel free to check them out!
 
 
 <!-- Add more as needed -->
->
+
 
 <!-- Optional: Trophies -->
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&margin-w=15" alt="Trophies" /> -->
 
 ### 🌐 How to find me online
 
-<p align="left">
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/akseli-hulkkonen-98a3aa221/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/akseli-hulkkonen-98a3aa221/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
   
   <!-- Add more social links -->
-</p>
+
 
