@@ -1,7 +1,7 @@
 
 # Hello there 👋, I'm Akseli!
 
-I am the leading actor in my own life and do my own stunts. I have also earned the title of glögi expert. I am interested in Java and the Spring Boot framework, so you will see those here.   
+I am the leading actor in my own life and I do my own stunts. I have also earned the title of glögi expert. I am interested in Java and the Spring Boot framework, so you will see those here. Coffee is good, but Java is better.    
 
 <!-- Optional: Add a banner image -->
 <!-- <img src="https://your-banner-image-url.jpg" alt="Banner" style="width:100%;"> -->
