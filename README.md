@@ -10,7 +10,7 @@ I am the leading actor in my own life and I do my own stunts. I have also earned
 ### 🛠️ Tech Stack & Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,typescript,angular,python,mysql,postgresql" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=java,spring,typescript,angular,python,mysql,postgresql,tailwind" alt="Skills" />
 </p>
 
 <!-- Alternative with shields.io badges if you prefer -->
@@ -21,6 +21,7 @@ I am the leading actor in my own life and I do my own stunts. I have also earned
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
 -->
 
 ### 📂 Interesting things I've done that we can laugh about together 😂😂
@@ -30,7 +31,7 @@ Here are some of my favorite projects — feel free to check them out!
 | Title | Description | Repository | Tools |
 | ----- | ----------- | ---------- | ----- |
 | Afterlife | The server side of the Afterlife reservation system. This is where everything related to API design and the database is located. The backend will be expanded in the future. This is still a WORK IN PROGRESS. | [AfterLifeServer](https://github.com/Tissinapa/afterlifeReservation) | <img src="https://skillicons.dev/icons?i=java,spring,mysql" alt="Skills" /> |
-| AfterlifeCient | The client side of a place reservation system called Afterlife. This focuses specifically on the section visible to users. WORK IN PROGRESS | [AfterLifeClient](https://github.com/Tissinapa/afterlifeClient) | <img src="https://skillicons.dev/icons?i=typescript,angular" alt="Skills" /> |
+| AfterlifeCient | The client side of a place reservation system called Afterlife. This focuses specifically on the section visible to users. WORK IN PROGRESS | [AfterLifeClient](https://github.com/Tissinapa/afterlifeClient) | <img src="https://skillicons.dev/icons?i=typescript,angular,tailwind" alt="Skills" /> |
 | CLI Audiobook | Command line audiobook app where you can convert pdf file to mp3 and listen converted mp3 file | [CLI audiobook](https://github.com/Tissinapa/aanikirjaapp) | <img src="https://skillicons.dev/icons?i=python" alt="Skills" /> |
 
 
